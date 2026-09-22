@@ -1,0 +1,7 @@
+.vscode
+.DS_Store
+build
+make
+.pio
+script
+examples/sketch/wifi_secrets.local.h
